@@ -1,0 +1,22 @@
+{
+  "name": "uel220_openaq",
+  "version": "1.0.0",
+  "description": "Mini-projet évalué en JQuery pour l'UE L220.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hikki-ko/uel220_openaq.git"
+  },
+  "author": "A. Abrantès",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hikki-ko/uel220_openaq/issues"
+  },
+  "homepage": "https://github.com/Hikki-ko/uel220_openaq#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
